@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pacten15
 - 👀 I’m interested in playing something
 - 🌱 I’m currently learning python again :|
-- 💞️ I’m looking to collaborate on projects that mean something
+- I’m looking to collaborate on projects that mean something
 - 📫 How to reach me email pactengamer69@gmail.com
 
 <!---
