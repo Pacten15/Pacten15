@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pacten15
 - 👀 I’m interested in playing something
-- 🌱 I’m currently learning java again :|
+- 🌱 I’m currently using c++ :)
 - I’m looking to collaborate on projects that mean something
 - 📫 How to reach me email luismarques718@hotmail.com
 
