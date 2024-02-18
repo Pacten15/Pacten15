@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋...;This+is+Luís...;Marques !;AKA+Pacten15;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Luís...;Marques !;AKA+Pacten15;&center=true&size=30">
   </a>
 </h1>
+#
 
 I'm a beginner developer interested in creating code. I started my coding journey by applying to university for a computer science course where I developed functional code with some colleagues for our projects. Sometimes it was readable, other times not, and sometimes it worked, other times not. But we improved throughout the years. Now I'm pursuing my master's degree and have discovered a passion for cybersecurity. I am currently learning and hope to secure a job in that area or at least contribute to the field by the end of my master's degree. 🔒 
 - 📫 You can reach me at [luismarques718@hotmail.com](mailto:luismarques718@hotmail.com)
